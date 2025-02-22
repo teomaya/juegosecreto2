@@ -2,5 +2,7 @@
 
 - Estado del proyecto: Finalizado.
 
+- actualizacion 2
+
 
 
