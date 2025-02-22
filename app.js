@@ -70,7 +70,7 @@ function reiniciarJuego(){
   // deshabilitar el botón  de nuevo juego
   document.querySelector("#reiniciar").setAttribute("disabled","true");
 
-
+// provando un commit
     
 }
 
